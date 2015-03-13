@@ -1,6 +1,8 @@
 Boogle
 ======
 
+"In the world of Boogle, there can only be one Boogle Champion. Bring it on." -Hans Bredenberg
+
 A "Boogle" game, with online multiplayer, by Elliot Hatch and Samuel Davidson.  
 
 Boogle games are run on port 2000.  
