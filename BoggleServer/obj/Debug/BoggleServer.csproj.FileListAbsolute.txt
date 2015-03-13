@@ -1,0 +1,9 @@
+C:\Users\Elliot\Documents\University of Utah\CS35002\BoggleServer\bin\Debug\BoggleServer.exe.config
+C:\Users\Elliot\Documents\University of Utah\Boogle\BoggleServer\bin\Debug\BoggleServer.exe.config
+C:\Users\Elliot\Documents\University of Utah\Boogle\BoggleServer\bin\Debug\BoggleServer.exe
+C:\Users\Elliot\Documents\University of Utah\Boogle\BoggleServer\bin\Debug\BoggleServer.pdb
+C:\Users\Elliot\Documents\University of Utah\Boogle\BoggleServer\bin\Debug\MySql.Data.dll
+C:\Users\Elliot\Documents\University of Utah\Boogle\BoggleServer\bin\Debug\PS7.dll
+C:\Users\Elliot\Documents\University of Utah\Boogle\BoggleServer\bin\Debug\PS7.xml
+C:\Users\Elliot\Documents\University of Utah\Boogle\BoggleServer\obj\Debug\BoggleServer.exe
+C:\Users\Elliot\Documents\University of Utah\Boogle\BoggleServer\obj\Debug\BoggleServer.pdb

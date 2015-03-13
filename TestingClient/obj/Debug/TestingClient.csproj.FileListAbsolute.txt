@@ -1,0 +1,8 @@
+C:\Users\Elliot\Documents\University of Utah\Boogle\TestingClient\bin\Debug\TestingClient.exe.config
+C:\Users\Elliot\Documents\University of Utah\Boogle\TestingClient\bin\Debug\TestingClient.exe
+C:\Users\Elliot\Documents\University of Utah\Boogle\TestingClient\bin\Debug\TestingClient.pdb
+C:\Users\Elliot\Documents\University of Utah\Boogle\TestingClient\bin\Debug\PS7.dll
+C:\Users\Elliot\Documents\University of Utah\Boogle\TestingClient\bin\Debug\PS7.xml
+C:\Users\Elliot\Documents\University of Utah\Boogle\TestingClient\obj\Debug\TestingClient.csprojResolveAssemblyReference.cache
+C:\Users\Elliot\Documents\University of Utah\Boogle\TestingClient\obj\Debug\TestingClient.exe
+C:\Users\Elliot\Documents\University of Utah\Boogle\TestingClient\obj\Debug\TestingClient.pdb

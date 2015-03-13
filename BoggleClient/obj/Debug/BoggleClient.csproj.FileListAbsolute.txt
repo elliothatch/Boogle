@@ -1,0 +1,13 @@
+C:\Users\Elliot\Documents\University of Utah\Boogle\BoggleClient\bin\Debug\BoggleClient.exe.config
+C:\Users\Elliot\Documents\University of Utah\Boogle\BoggleClient\bin\Debug\BoggleClient.exe
+C:\Users\Elliot\Documents\University of Utah\Boogle\BoggleClient\bin\Debug\BoggleClient.pdb
+C:\Users\Elliot\Documents\University of Utah\Boogle\BoggleClient\bin\Debug\MySql.Data.dll
+C:\Users\Elliot\Documents\University of Utah\Boogle\BoggleClient\bin\Debug\PS7.dll
+C:\Users\Elliot\Documents\University of Utah\Boogle\BoggleClient\bin\Debug\PS7.xml
+C:\Users\Elliot\Documents\University of Utah\Boogle\BoggleClient\obj\Debug\BoggleClient.csprojResolveAssemblyReference.cache
+C:\Users\Elliot\Documents\University of Utah\Boogle\BoggleClient\obj\Debug\BoggleClient.BoggleBoardControl.resources
+C:\Users\Elliot\Documents\University of Utah\Boogle\BoggleClient\obj\Debug\BoggleClient.BoggleClientForm.resources
+C:\Users\Elliot\Documents\University of Utah\Boogle\BoggleClient\obj\Debug\BoggleClient.Properties.Resources.resources
+C:\Users\Elliot\Documents\University of Utah\Boogle\BoggleClient\obj\Debug\BoggleClient.csproj.GenerateResource.Cache
+C:\Users\Elliot\Documents\University of Utah\Boogle\BoggleClient\obj\Debug\BoggleClient.exe
+C:\Users\Elliot\Documents\University of Utah\Boogle\BoggleClient\obj\Debug\BoggleClient.pdb

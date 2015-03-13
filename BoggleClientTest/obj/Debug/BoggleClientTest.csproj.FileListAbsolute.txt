@@ -1,0 +1,12 @@
+C:\Users\Elliot\Documents\University of Utah\Boogle\BoggleClientTest\bin\Debug\BoggleClientTest.dll
+C:\Users\Elliot\Documents\University of Utah\Boogle\BoggleClientTest\bin\Debug\BoggleClientTest.pdb
+C:\Users\Elliot\Documents\University of Utah\Boogle\BoggleClientTest\bin\Debug\BoggleClient.exe
+C:\Users\Elliot\Documents\University of Utah\Boogle\BoggleClientTest\bin\Debug\BoggleServer.exe
+C:\Users\Elliot\Documents\University of Utah\Boogle\BoggleClientTest\bin\Debug\PS7.dll
+C:\Users\Elliot\Documents\University of Utah\Boogle\BoggleClientTest\bin\Debug\MySql.Data.dll
+C:\Users\Elliot\Documents\University of Utah\Boogle\BoggleClientTest\bin\Debug\BoggleClient.pdb
+C:\Users\Elliot\Documents\University of Utah\Boogle\BoggleClientTest\bin\Debug\BoggleServer.pdb
+C:\Users\Elliot\Documents\University of Utah\Boogle\BoggleClientTest\bin\Debug\PS7.xml
+C:\Users\Elliot\Documents\University of Utah\Boogle\BoggleClientTest\obj\Debug\BoggleClientTest.csprojResolveAssemblyReference.cache
+C:\Users\Elliot\Documents\University of Utah\Boogle\BoggleClientTest\obj\Debug\BoggleClientTest.dll
+C:\Users\Elliot\Documents\University of Utah\Boogle\BoggleClientTest\obj\Debug\BoggleClientTest.pdb

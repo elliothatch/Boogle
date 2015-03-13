@@ -1,0 +1,10 @@
+C:\Users\Elliot\Documents\University of Utah\Boogle\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Elliot\Documents\University of Utah\Boogle\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Elliot\Documents\University of Utah\Boogle\UnitTestProject1\bin\Debug\BoggleServer.exe
+C:\Users\Elliot\Documents\University of Utah\Boogle\UnitTestProject1\bin\Debug\PS7.dll
+C:\Users\Elliot\Documents\University of Utah\Boogle\UnitTestProject1\bin\Debug\MySql.Data.dll
+C:\Users\Elliot\Documents\University of Utah\Boogle\UnitTestProject1\bin\Debug\BoggleServer.pdb
+C:\Users\Elliot\Documents\University of Utah\Boogle\UnitTestProject1\bin\Debug\PS7.xml
+C:\Users\Elliot\Documents\University of Utah\Boogle\UnitTestProject1\obj\Debug\BoggleServerTest.csprojResolveAssemblyReference.cache
+C:\Users\Elliot\Documents\University of Utah\Boogle\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Elliot\Documents\University of Utah\Boogle\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
