@@ -5,6 +5,8 @@ Boogle
 
 A "Boogle" game, with online multiplayer, by Elliot Hatch and Samuel Davidson.  
 
+![Playing a game of Boogle](docs/images/playing.png)
+
 Boogle games are run on port 2000.  
 
 The Boogle server also runs a web server that shows player stats and game history. The web server runs on port 2500, the home screen is at the url `/players`.  
