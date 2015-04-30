@@ -3,7 +3,7 @@ Boogle
 
 "In the world of Boogle, there can only be one Boogle Champion. Bring it on." -Hans Bredenberg
 
-A "Boogle" game, with online multiplayer, by Elliot Hatch and Samuel Davidson.  
+A "Boogle" game, with online multiplayer, by [Elliot Hatch](https://github.com/elliothatch) and [Samuel Davidson](https://github.com/samdamana).  
 
 ![Playing a game of Boogle](docs/images/playing.png)
 
